@@ -39,8 +39,5 @@ Open http://localhost:5173/ to see the result.
 ## Customization
 To customize the project, add or remove files in the assets directory, then modify **assets.js**.
 
-## Contributing
-Contributions are welcome! To do so, please fork the repo, make your changes and submit a pull request.
-
 ## References
 Tutorial by GreatStack on YouTube https://www.youtube.com/watch?v=amFYvQK4huo
