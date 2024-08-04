@@ -33,14 +33,17 @@ import img8 from './img8.jpg'
 import img9 from './img9.jpg'
 import img10 from './img10.jpg'
 import img11 from './img11.jpg'
-import img12 from './img12.jpg'
 import img13 from './img13.jpg'
-import img14 from './img14.jpg'
 import img15 from './img15.jpg'
 import img16 from './img16.jpg'
-import song1 from  './song1.mp3'
-import song2 from  './song2.mp3'
-import song3 from  './song3.mp3'
+import shapeofyou from  './shapeofyou.mp3'
+import delicate from  './delicate.mp3'
+import takitaki from  './takitaki.mp3'
+import havana from './havana.mp3'
+import newrules from './newrules.mp3'
+import lovemelikeyoudo from './lovemelikeyoudo.mp3'
+import cheapthrills from './cheapthrills.mp3'
+import closer from './closer.mp3'
 
 export const assets = {
     bell_icon,
@@ -117,66 +120,66 @@ export const albumsData = [
 export const songsData = [
     {
         id:0,
-        name: "Song One",
+        name: "Shape of You",
         image: img1,
-        file:song1,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"3:00"
+        file:shapeofyou,
+        desc:"Ed Sheeran",
+        duration:"3:53"
     },
     {
         id:1,
-        name: "Song Two",
+        name: "Delicate",
         image: img2,
-        file:song2,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:20"
+        file:delicate,
+        desc:"Taylor Swift",
+        duration:"3:52"
     },
     {
         id:2,
-        name: "Song Three",
+        name: "Taki Taki",
         image: img3,
-        file:song3,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:32"
+        file:takitaki,
+        desc:"DJ Snake",
+        duration:"3:52"
     },
     {
         id:3,
-        name: "Song Four",
+        name: "Havana",
         image: img4,
-        file:song1,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:50"
+        file:havana,
+        desc:"Camilla Cabello",
+        duration:"3:39"
     },
     {
         id:4,
-        name: "Song Five",
+        name: "New Rules",
         image: img5,
-        file:song2,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"3:10"
+        file:newrules,
+        desc:"Dua Lipa",
+        duration:"3:45"
     },
     {
         id:5,
-        name: "Song Six",
-        image: img14    ,
-        file:song3,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:45"
+        name: "Love Me Like You Do",
+        image: img6,
+        file:lovemelikeyoudo,
+        desc:"Ellie Goulding",
+        duration:"4:09"
     },
     {
         id:6,
-        name: "Song Seven",
+        name: "Cheap Thrills",
         image: img7,
-        file:song1,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:18"
+        file:cheapthrills,
+        desc:"Sia",
+        duration:"3:31"
     },
     {
         id:7,
-        name: "Song Eight",
-        image: img12,
-        file:song2,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:35"
+        name: "Closer",
+        image: img13,
+        file:closer,
+        desc:"Chainsmokers",
+        duration:"4:07"
     }
 ]

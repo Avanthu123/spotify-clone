@@ -1,4 +1,4 @@
-import React, { useContext, useRef } from 'react';
+import React, { useContext } from 'react';
 import SideBar from './components/SideBar';
 import Player from './components/Player';
 import Display from './components/Display';
